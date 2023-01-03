@@ -1,0 +1,24 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto js con Node en open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleprosDev/Ejercicios_openBootcamp.git"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "project"
+  ],
+  "author": "yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleprosDev/Ejercicios_openBootcamp/issues"
+  },
+  "homepage": "https://github.com/AleprosDev/Ejercicios_openBootcamp#readme"
+}
