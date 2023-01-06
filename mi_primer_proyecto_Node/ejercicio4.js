@@ -1,0 +1,10 @@
+let miNombre = 'Alejandro';
+let miApellido = 'Pros';
+let estudiante = miNombre.concat(' ',miApellido);
+let estudianteMayus = estudiante.toUpperCase();
+let estudianteMinus = estudiante.toLowerCase();
+let countChar = estudiante.length;
+let firstChar = estudiante.charAt(0);
+let lastChar = estudiante.charAt(13);
+let noSpace = estudiante.replace(' ','');
+let isLastNameIn = estudiante.endsWith(miApellido);
